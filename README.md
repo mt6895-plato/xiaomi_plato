@@ -1,11 +1,11 @@
 # Xiaomi 12T Local Manifest AOSP
 
-### LineageOS 23.2 for Xiaomi 12T
-This local-manifest is designed for LineageOS Based ROMs (ex. EvoX, etc)\
-You can use this local manifest to build your favorite LineageOS Based ROMs as your pick.\
+### Android 16 QPR2 for Xiaomi 12T
+Use this Local manifest to build your Custom ROM for Xiaomi 12T!\
+To get started, place `plato.xml` into your custom rom local_manifests: `.repo/local_manifests/plato.xml`\
 All credits and work goes to [Xiaomi MT6895 Devs](https://github.com/xiaomi-mt6895-devs) and [XagaForge](https://github.com/XagaForge).
 
-Here are all of the sources used for this build:
+Below is all of the sources used to build:
 Required files   | Source
 -------:|:-------------------------
 Hardware     | [android_hardware_xiaomi](https://github.com/XagaForge/android_hardware_xiaomi) <br /> [android_hardware_mediatek](https://github.com/XagaForge/android_hardware_mediatek)
