@@ -11,6 +11,7 @@ Required files   | Source
 Hardware     | [android_hardware_xiaomi](https://github.com/XagaForge/android_hardware_xiaomi) <br /> [android_hardware_mediatek](https://github.com/XagaForge/android_hardware_mediatek)
 Device Trees | [android_device_xiaomi_plato](https://github.com/mt6895-plato/android_device_xiaomi_plato) <br /> [android_device_xiaomi_mt6895-common ](https://github.com/XagaForge/android_device_xiaomi_mt6895-common) <br /> [android_device_mediatek_sepolicy_vndr](https://github.com/XagaForge/android_device_mediatek_sepolicy_vndr)
 Vendor Trees     | [android_vendor_xiaomi_mt6895-common](https://github.com/XagaForge/android_vendor_xiaomi_mt6895-common) <br /> [android_vendor_xiaomi_plato](https://gitlab.com/archcloudy/android_vendor_xiaomi_plato)
+MiuiCamera (uncomment on plato.xml) | [android_device_xiaomi_plato-miuicamera](https://github.com/mt6895-plato/android_device_xiaomi_plato-miuicamera) <br /> [android_vendor_xiaomi_plato-miuicamera](https://github.com/archcloudy/android_vendor_xiaomi_plato-miuicamera)
 Kernel Dependencies  | [android_kernel_xiaomi_mt6895](https://github.com/XagaForge/android_kernel_xiaomi_mt6895)
 
 ## Device specifications

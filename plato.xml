@@ -10,6 +10,12 @@
     <project name="android_device_xiaomi_mt6895-common"     path="device/xiaomi/mt6895-common"     remote="XagaForge"  />
     <project name="android_device_mediatek_sepolicy_vndr"   path="device/mediatek/sepolicy_vndr"   remote="XagaForge"  />
 
+    <!-- MiuiCamera (UNCOMMENT IF YOU WANT TO INCLUDE!) -->
+    <!--
+    <project name="android_device_xiaomi_plato-miuicamera"      path="device/xiaomi/plato-miuicamera"   remote="plato" />
+    <project name="android_vendor_xiaomi_plato-miuicamera"      path="vendor/xiaomi/plato-miuicamera"   remote="gl"  />    
+    -->
+
     <!--Vendors Tree-->
     <project name="android_vendor_xiaomi_mt6895-common"     path="vendor/xiaomi/mt6895-common"     remote="XagaForge"  />
     <project name="android_vendor_xiaomi_plato"             path="vendor/xiaomi/plato"             remote="gl"         />
