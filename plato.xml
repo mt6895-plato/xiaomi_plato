@@ -2,12 +2,12 @@
 <manifest>
     <!--Remotes-->
     <remote name="XagaForge"      fetch="https://github.com/XagaForge"             revision="16.2"         />
-    <remote name="plato"          fetch="https://github.com/mt6895-plato"          revision="16.2" />
+    <remote name="plato"          fetch="https://github.com/mt6895-plato"          revision="16.2"         />
     <remote name="gl"             fetch="https://gitlab.com/archcloudy"            revision="16.2"         />
 
     <!--Devices Trees-->
     <project name="android_device_xiaomi_plato"             path="device/xiaomi/plato"             remote="plato" />
-    <project name="android_device_xiaomi_mt6895-common"     path="device/xiaomi/mt6895-common"     remote="XagaForge"  />
+    <project name="android_device_xiaomi_mt6895-common"     path="device/xiaomi/mt6895-common"     remote="plato"  />
     <project name="android_device_mediatek_sepolicy_vndr"   path="device/mediatek/sepolicy_vndr"   remote="XagaForge"  />
 
     <!-- MiuiCamera (UNCOMMENT IF YOU WANT TO INCLUDE!) -->
