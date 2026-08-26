@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <!--Remotes-->
-    <remote name="plato"          fetch="https://github.com/mt6895-plato"          revision="16.2"         />
-    <remote name="gl"             fetch="https://gitlab.com/archcloudy"            revision="16.2"         />
+    <remote name="plato"          fetch="https://github.com/mt6895-plato"          revision="17.0"         />
+    <remote name="gl"             fetch="https://gitlab.com/archcloudy"            revision="17.0"         />
 
     <!--Devices Trees-->
-    <project name="android_device_xiaomi_plato"             path="device/xiaomi/plato"             remote="plato" revision="sixteen-qpr2" />
+    <project name="android_device_xiaomi_plato"             path="device/xiaomi/plato"             remote="plato" revision="seventeen" />
     <project name="android_device_xiaomi_mt6895-common"     path="device/xiaomi/mt6895-common"     remote="plato" />
     <project name="android_device_mediatek_sepolicy_vndr"   path="device/mediatek/sepolicy_vndr"   remote="plato" />
 
